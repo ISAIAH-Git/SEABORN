@@ -49,3 +49,15 @@
  --color styling
  
  --etc ....  
+ 
+ # TYPES OF ANALYSIS :
+   
+   UNIVARIATE ANLYSIS
+   
+   BIVARIATE ANALYSIS
+   
+   MULTIVARIATE ANALYSIS
+   
+  
+ # SUMMARY 
+   
