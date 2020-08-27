@@ -5,29 +5,47 @@
 # TYPES OF PLOTS :
 
 # NUMERICAL DATA PLOT :
- --relplot()
- --scatterplot()
- --lineplot()
+  
+  --relplot()
+  
+  --scatterplot()
+  
+  --lineplot()
  
 # CATEGORICAL DATA PLOT :
- --catplot()
- --boxplot()
- --stripplot()
- --swarmplot()
- --etc...
+  
+  --catplot()
+  
+  --boxplot()
+  
+  --stripplot()
+  
+  --swarmplot()
+  
+  --etc...
  
 # VISUALIZING DISTRIBUTION OF DATA :
- --distplot()
- --kdeplot()
- --jointplot()
- --rugplot()
+ 
+  --distplot()
+ 
+  --kdeplot()
+ 
+  --jointplot()
+ 
+  --rugplot()
  
 # LINEAR REGRESSION & RELATIONSHIP:
- --regplot()
- --lmplot()
+ 
+  --regplot()
+ 
+  --lmplot()
  
 # CONTROLLING PLOTTED FIGURES AESTHETICS :
+ 
  --figure styling
+ 
  --axes styling
+ 
  --color styling
+ 
  --etc ....  
