@@ -59,5 +59,6 @@
    MULTIVARIATE ANALYSIS
    
   
- # SUMMARY 
+ # SUMMARY :
+   Overall review and summary of the seaborn.
    
